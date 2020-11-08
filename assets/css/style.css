@@ -657,6 +657,11 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+iframe {
+  width: 70%;
+  height: 430px;
+}
+
 .services .icon-box {
   text-align: center;
   padding: 70px 20px 80px 20px;
